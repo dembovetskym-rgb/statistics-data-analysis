@@ -1,2 +1,22 @@
-# statistics-data-analysis
-Summary and grouping of statistical data, Regression analysis, Correlation analysis, Determining confidence intervals for the mean, analysis practice
+# Statistics Data Analysis
+
+## Description
+Educational statistical analysis labs completed in Excel.
+
+## Topics
+- Data grouping and summarization
+- Correlation analysis
+- Regression analysis
+- Confidence intervals
+
+## Tools
+- Microsoft Excel
+
+## Skills Practiced
+- Data analysis
+- Statistical calculations
+- Working with tables and formulas
+- Data interpretation
+
+## Purpose
+Educational laboratory work.
